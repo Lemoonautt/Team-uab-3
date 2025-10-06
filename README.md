@@ -4,3 +4,4 @@
 - Luis Fernando Guarachi Apaza
 - Marian Celeste Gironda Chura
 - Elia Flores Bartolome
+- Delia Mamani Saucedo
